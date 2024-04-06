@@ -1,2 +1,2 @@
-# golang-darslari
-go dasturlash tili bo'yicha darslar (https://www.youtube.com/playlist?list=PL_WK6W0Gn1I4LW8Iur4V6GF16hnZi3-6_ dan)
+Golang 14-qismdan iborat ushbu darslarni ushbu you tube kanaldan topishingiz mumkin 
+https://youtu.be/Ga71efk4XvA?si=vp256m-BfvPyhk93
